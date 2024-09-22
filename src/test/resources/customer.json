@@ -1,0 +1,23 @@
+{
+  "id": "06050eb5-d184-4037-9e51-70dcf9435202",
+  "firstName": "Pasha",
+  "lastName": "Kosovich",
+  "dateBirth": "2004-07-22",
+  "orders": [
+    {
+      "id": "57d6d121-a659-4944-b6bb-2c5efa415220",
+      "products": [
+        {
+          "id": "39b09638-d7d9-443c-a503-b634a2782853",
+          "name": "hako",
+          "price": 23.6,
+          "count": {
+            "a7961841-f38c-47f0-9932-b4ef7ec604ca": 123,
+            "ff0b087b-f1a1-4d96-aa54-182a8058c19a": 435
+          }
+        }
+      ],
+      "createDate": "2024-09-21T17:19:57.8572144+03:00"
+    }
+  ]
+}

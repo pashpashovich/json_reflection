@@ -1,0 +1,15 @@
+{
+  "id": "955c375d-40bd-4bcf-b46b-30f5b6608b0d",
+  "products": [
+    {
+      "id": "c03a0789-f387-4d6e-bea4-a6b53d2cbea7",
+      "name": "hako",
+      "price": 23.6,
+      "count": {
+        "e93cc5fc-abed-4972-a2ac-c7d4364a1e47": 435,
+        "8906bff6-a537-4767-9802-7bd071ca2448": 123
+      }
+    }
+  ],
+  "createDate": "2024-09-21T19:33:24.6702265+03:00"
+}
